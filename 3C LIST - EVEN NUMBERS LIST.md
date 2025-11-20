@@ -1,0 +1,40 @@
+# Exp.No:3c
+## LIST - EVEN NUMBERS LIST
+
+---
+
+### AIM  
+To write a Python function that accepts a number **N** and creates a list containing all even numbers up to **N**.
+
+---
+
+### ALGORITHM
+
+1. Begin the program.  
+2. Accept an integer `a` from the user.  
+3. Create an empty list `l`.  
+4. Use a `for` loop to iterate through numbers from `1` to `a - 1`:  
+   - For each number `i`, check if it is even using `i % 2 == 0`.  
+   - If it is even, append `i` to the list `l`.  
+5. Print the final list `l` containing all the even numbers.  
+6. Terminate the program.
+
+---
+
+### PROGRAM
+
+```
+reg no:212223070012
+name:Lithick Kumar M N
+def even_numbers_up_to(N):
+    return [i for i in range(2, N + 1, 2)]
+print(even_numbers_up_to(10))
+
+
+```
+
+### OUTPUT
+![image](https://github.com/user-attachments/assets/f2fc2c57-bcb5-416a-b713-6112e4742e3d)
+
+### RESULT
+thus the above program is executed successfully.
