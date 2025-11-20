@@ -24,7 +24,9 @@ def replace_word_in_string():
 replace_word_in_string()
 
 OUTPUT
-image
+
+<img width="827" height="114" alt="image" src="https://github.com/user-attachments/assets/5a4c1529-ac79-4362-90af-73a67506d827" />
+
 
 RESULT
 Thus the program is executed successfully
